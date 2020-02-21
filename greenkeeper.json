@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "alexa-cookie/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
